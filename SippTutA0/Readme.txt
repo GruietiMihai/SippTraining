@@ -42,7 +42,7 @@ Expected output
 ==================
 Exactly the same image as the input, is dumped to a file, 
 View with Irfanview or pyuv; The resolution is 512x512, YUV, P400
-See http://timi30/svn/TRUNK/mdk/testApps/components/sipptests/progressiveTuts/pics for sample images
+See http://timi30/svn/TRUNK/mdk/testApps/components/sipptests/progressiveTuts/pics for sample images/////////////////////////////////////////////////////////////////////////////
 
 
 
